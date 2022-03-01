@@ -1,0 +1,3029 @@
+# Translation of Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-10 06:47:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release)\n"
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:17
+#: lib/Form/Templates/Templates/Template3FixedBar.php:17
+#: lib/Form/Templates/Templates/Template3Popup.php:17
+#: lib/Form/Templates/Templates/Template3SlideIn.php:17
+#: lib/Form/Templates/Templates/Template3Widget.php:17
+msgctxt "Form template name"
+msgid "Welcome Discount"
+msgstr "ウェルカム割引"
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:99
+#: lib/Form/Templates/Templates/Template12FixedBar.php:78
+#: lib/Form/Templates/Templates/Template12Popup.php:113
+#: lib/Form/Templates/Templates/Template12SlideIn.php:113
+#: lib/Form/Templates/Templates/Template12Widget.php:56
+msgctxt "Form label"
+msgid "Full Name"
+msgstr "フルネーム"
+
+#: lib/Form/Templates/Templates/Template4BelowPages.php:17
+#: lib/Form/Templates/Templates/Template4FixedBar.php:17
+#: lib/Form/Templates/Templates/Template4Popup.php:17
+#: lib/Form/Templates/Templates/Template4SlideIn.php:17
+#: lib/Form/Templates/Templates/Template4Widget.php:17
+msgctxt "Form template name"
+msgid "Newsletter Signup"
+msgstr "ニュースレター登録"
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:17
+#: lib/Form/Templates/Templates/Template7FixedBar.php:17
+#: lib/Form/Templates/Templates/Template7Popup.php:17
+#: lib/Form/Templates/Templates/Template7SlideIn.php:17
+#: lib/Form/Templates/Templates/Template7Widget.php:17
+msgctxt "Form template name"
+msgid "Latest Deals"
+msgstr "最新のお得情報"
+
+#: lib/Form/Templates/Templates/Template3Widget.php:30
+msgctxt "Text in a web form. First line of \"10% off, especially for you.\""
+msgid "10% off,"
+msgstr "10% オフ、"
+
+#: lib/Form/Templates/Templates/Template3Widget.php:45
+msgctxt "Text in a web form. Second line of \"10% off, especially...\""
+msgid "especially for you"
+msgstr "特別割引"
+
+#: lib/Form/Templates/Templates/Template6FixedBar.php:41
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "<strong>Dive in!</strong> Start your journey today."
+msgstr "<strong>今すぐスタート !</strong> 今日から始めましょう。"
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:41
+#: lib/Form/Templates/Templates/Template3FixedBar.php:41
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "10% off, <br>especially for you"
+msgstr "10% オフ、<br>特別割引"
+
+#: lib/Form/Templates/Templates/Template3Popup.php:45
+#: lib/Form/Templates/Templates/Template3SlideIn.php:45
+msgctxt "Text in a web form. Second line of \"10% off, especially...\""
+msgid "off, especially for you"
+msgstr "オフ、特別割引"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:69
+#: lib/Form/Templates/Templates/Template10FixedBar.php:101
+#: lib/Form/Templates/Templates/Template10Popup.php:58
+#: lib/Form/Templates/Templates/Template10SlideIn.php:58
+#: lib/Form/Templates/Templates/Template10Widget.php:58
+msgctxt "Form label"
+msgid "What’s your name?"
+msgstr "お名前は ?"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:116
+#: lib/Form/Templates/Templates/Template10FixedBar.php:129
+#: lib/Form/Templates/Templates/Template10Popup.php:77
+#: lib/Form/Templates/Templates/Template10SlideIn.php:76
+#: lib/Form/Templates/Templates/Template10Widget.php:77
+msgctxt "Form label"
+msgid "And your surname?"
+msgstr "名字は ?"
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:646
+#: lib/Config/PopulatorData/Templates/Avocado.php:879
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:804
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1062
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:826
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/Fitness.php:984
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1124
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1357
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:786
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1094
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:455
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:680
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:507
+#: lib/Config/PopulatorData/Templates/WineCity.php:804
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+msgid "Add your postal address here!"
+msgstr "ここに郵便用の住所を追加してください。"
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:1015
+#: lib/Config/PopulatorData/Templates/Birds.php:212
+#: lib/Config/PopulatorData/Templates/Birds.php:1733
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:828
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1179
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:107
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:2073
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:162
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1280
+#: lib/Config/PopulatorData/Templates/Charity.php:1115
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:108
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1481
+#: lib/Config/PopulatorData/Templates/ClearNews.php:108
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1866
+#: lib/Config/PopulatorData/Templates/Coffee.php:229
+#: lib/Config/PopulatorData/Templates/College.php:281
+#: lib/Config/PopulatorData/Templates/College.php:1125
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:108
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:1118
+#: lib/Config/PopulatorData/Templates/DogFood.php:1129
+#: lib/Config/PopulatorData/Templates/Drone.php:1172
+#: lib/Config/PopulatorData/Templates/Engineering.php:166
+#: lib/Config/PopulatorData/Templates/Engineering.php:1251
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:107
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1536
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:108
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:1083
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:176
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1426
+#: lib/Config/PopulatorData/Templates/FashionShop.php:108
+#: lib/Config/PopulatorData/Templates/FashionShop.php:1021
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1405
+#: lib/Config/PopulatorData/Templates/Fitness.php:1167
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1494
+#: lib/Config/PopulatorData/Templates/Guitarist.php:290
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1724
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2452
+#: lib/Config/PopulatorData/Templates/Hotels.php:1393
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1045
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1456
+#: lib/Config/PopulatorData/Templates/JazzClub.php:108
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1251
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1651
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:96
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1263
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:158
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1493
+#: lib/Config/PopulatorData/Templates/Minimal.php:1196
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1425
+#: lib/Config/PopulatorData/Templates/Mosque.php:150
+#: lib/Config/PopulatorData/Templates/Mosque.php:1786
+#: lib/Config/PopulatorData/Templates/Motor.php:241
+#: lib/Config/PopulatorData/Templates/Motor.php:1191
+#: lib/Config/PopulatorData/Templates/Music.php:1464
+#: lib/Config/PopulatorData/Templates/NewsDay.php:1076
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:65
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:146
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1214
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:989
+#: lib/Config/PopulatorData/Templates/Painter.php:108
+#: lib/Config/PopulatorData/Templates/Painter.php:1398
+#: lib/Config/PopulatorData/Templates/Phone.php:757
+#: lib/Config/PopulatorData/Templates/Photography.php:158
+#: lib/Config/PopulatorData/Templates/Photography.php:2096
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:61
+#: lib/Config/PopulatorData/Templates/Poet.php:183
+#: lib/Config/PopulatorData/Templates/Poet.php:1247
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:108
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1343
+#: lib/Config/PopulatorData/Templates/RealEstate.php:1095
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1330
+#: lib/Config/PopulatorData/Templates/Retro.php:1313
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:166
+#: lib/Config/PopulatorData/Templates/RockBand.php:150
+#: lib/Config/PopulatorData/Templates/RockBand.php:1217
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:815
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1168
+#: lib/Config/PopulatorData/Templates/Software.php:1292
+#: lib/Config/PopulatorData/Templates/Synagogue.php:108
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1780
+#: lib/Config/PopulatorData/Templates/Vlogger.php:108
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1405
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:65
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:754
+#: lib/Config/PopulatorData/Templates/WineCity.php:940
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:108
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1416
+msgid "View this in your browser."
+msgstr "ブラウザーで表示:"
+
+#: lib/Config/Menu.php:361 lib/Config/Menu.php:362
+msgid "WooCommerce Setup"
+msgstr "WooCommerce 設定"
+
+#: lib/Subscription/Pages.php:372
+msgid "Confirm you want to unsubscribe"
+msgstr "配信停止することをご確認ください"
+
+#: lib/API/JSON/v1/Services.php:222
+msgid "MailPoet Sending Service is not active."
+msgstr "MailPoet 送信サービスは有効化しません。"
+
+#: lib/Form/PreviewPage.php:65
+msgid "Sample page to preview your form"
+msgstr "フォームをプレビューするサンプルページ"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:116
+msgid "Failed opening file for export."
+msgstr "エクスポート用のファイルは開くことができませんでした。"
+
+#: lib/API/JSON/v1/Services.php:232
+msgid "Sender email address is not set."
+msgstr "送信者のメールアドレスが設定されていません。"
+
+#: lib/API/JSON/v1/Services.php:243
+msgid "Sending of congratulatory email failed."
+msgstr "お祝いメールの送信に失敗しました。"
+
+#: lib/API/JSON/v1/Services.php:235
+msgid "Sender email address '%s' is not authorized."
+msgstr "送信者のメールアドレス '%s' は認証されていません。"
+
+#: lib/Config/ServicesChecker.php:49
+msgid "All sending is currently paused!"
+msgstr "すべての送信は現在一時停止中です！"
+
+#: lib/Config/ServicesChecker.php:50
+msgid "Your key to send with MailPoet is invalid."
+msgstr "MailPoetで送信するキーが無効です。"
+
+#: lib/Config/ServicesChecker.php:55
+msgid "Purchase a key"
+msgstr "キーを購入"
+
+#: lib/API/JSON/v1/Settings.php:184
+msgid "No email address specified."
+msgstr "メールアドレスが指定されていません。"
+
+#: lib/API/JSON/v1/Settings.php:193
+msgid "Can’t use this email yet! Please authorize it first."
+msgstr "このメールはまだ使用できません。最初に承認してください。"
+
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:69
+msgid "Fix this!"
+msgstr "これを修正してください。"
+
+#: lib/PostEditorBlocks/SubscriptionFormBlock.php:61
+msgid "Select a MailPoet form"
+msgstr "MailPoet フォームを選択します"
+
+#: lib/PostEditorBlocks/SubscriptionFormBlock.php:63
+msgid "MailPoet Subscription Form"
+msgstr "MailPoet購読フォーム"
+
+#: mailpoet.php:69
+msgid "Please read our [link]instructions[/link] on how to upgrade your site."
+msgstr "サイトのアップグレード方法に関する[link]指示[/link]をお読みください。"
+
+#: mailpoet.php:77
+msgid "If you can’t upgrade the PHP version, [link]install this version[/link] of MailPoet. Remember to not update MailPoet ever again!"
+msgstr "PHP バージョンをアップグレードできない場合は、[link]このバージョン[/link]の MailPoet をインストールしてください。今後、MailPoet を再び更新しないようにすることをお忘れなく。"
+
+#: lib/API/JSON/v1/Premium.php:40 lib/API/JSON/v1/Premium.php:62
+msgid "Premium key is not valid."
+msgstr "プレミアムキーが無効です。"
+
+#: lib/API/JSON/v1/Premium.php:48 lib/API/JSON/v1/Premium.php:54
+msgid "Error when installing MailPoet Premium plugin."
+msgstr "MailPoet Premium プラグインのインストール中にエラーが発生しました。"
+
+#: lib/API/JSON/v1/Premium.php:67
+msgid "Error when activating MailPoet Premium plugin."
+msgstr "MailPoet Premium プラグインを有効化する際のエラー。"
+
+#: lib/API/JSON/v1/Services.php:127
+msgid "Your key is not valid for the MailPoet Sending Service"
+msgstr "キーは MailPoet 送信サービスでは無効です。"
+
+#: lib/API/JSON/v1/Services.php:192
+msgid "Your key is not valid for MailPoet Premium"
+msgstr "キーは MailPoet Premium では無効です。"
+
+#: lib/API/JSON/v1/Newsletters.php:174 lib/API/JSON/v1/SendingQueue.php:62
+#: lib/API/JSON/v1/SendingQueue.php:213
+msgid "Subscribers limit reached."
+msgstr "購読者の制限に達しました。"
+
+#: lib/AdminPages/Pages/Settings.php:103
+msgctxt "Notice in Settings when WooCommerce is not enabled"
+msgid "You need to have WooCommerce active to access the MailPoet email customizer for WooCommerce."
+msgstr "WooCommerce の MailPoet メールカスタマイザーにアクセスするには、WooCommerce を有効化済みに必要があります。"
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:99
+msgid "Newsletter not found!"
+msgstr "ニュースレターが見つかりません！"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1195
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1659
+#: lib/WooCommerce/TransactionalEmails.php:63
+msgid "A note has been added to your order"
+msgstr "メモを追加しました"
+
+#: lib/WooCommerce/TransactionalEmails.php:51
+msgid "New Order: #{order_number}"
+msgstr "新しい注文:#{order_number}"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1194
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1658
+#: lib/WooCommerce/TransactionalEmails.php:59
+msgid "Thanks for shopping with us"
+msgstr "ご利用いただきありがとうございます"
+
+#: lib/Form/Widget.php:155
+msgctxt "fallback for forms without a name in a form list"
+msgid "no name"
+msgstr "ノーネーム"
+
+#: lib/WooCommerce/TransactionalEmails.php:117
+msgctxt "Default footer text for a WooCommerce transactional email"
+msgid "Footer text"
+msgstr "フッターテキスト"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1193
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1657
+#: lib/WooCommerce/TransactionalEmails.php:55
+msgid "Thank you for your order"
+msgstr "ご注文ありがとうございます"
+
+#: lib/API/JSON/v1/AutomaticEmails.php:42
+#: lib/API/JSON/v1/AutomaticEmails.php:66
+msgid "Improperly formatted request."
+msgstr "不適切なフォーマットのリクエスト。"
+
+#: lib/API/JSON/v1/AutomaticEmails.php:54
+msgid "Automatic email event filter does not exist."
+msgstr "オートマチックメールイベントのフィルターが存在しません。"
+
+#: lib/API/JSON/v1/AutomaticEmails.php:77
+msgid "Automatic email event does not exist."
+msgstr "オートマチックメールイベントが存在しません。"
+
+#: lib/API/JSON/v1/DynamicSegments.php:82
+#: lib/API/JSON/v1/DynamicSegments.php:166
+#: lib/API/JSON/v1/DynamicSegments.php:198
+#: lib/API/JSON/v1/DynamicSegments.php:219
+msgid "Missing mandatory argument `id`."
+msgstr "必須のアーギュメント `id` がありません。"
+
+#: lib/API/JSON/v1/DynamicSegments.php:89
+#: lib/API/JSON/v1/DynamicSegments.php:173
+#: lib/API/JSON/v1/DynamicSegments.php:205
+#: lib/API/JSON/v1/DynamicSegments.php:226 lib/API/JSON/v1/Subscribers.php:235
+msgid "This segment does not exist."
+msgstr "このセグメントは存在しません。"
+
+#: lib/API/JSON/v1/DynamicSegments.php:141
+msgid "Please select an email."
+msgstr "メールを選択してください。"
+
+#: lib/API/JSON/v1/DynamicSegments.php:159
+msgid "An error occurred while saving data."
+msgstr "データ保存中にエラーが発生しました。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:50
+msgid "Email sent when a customer buys a product in category: %s"
+msgstr "顧客がカテゴリー%sの商品を購入したときに送信されるメール"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:51
+msgid "Email sent when a customer buys a product in categories: %s"
+msgstr "顧客がカテゴリー%sの商品を購入したときに送信されるメール"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:71
+msgid "Email sent when a customer buys product: %s"
+msgstr "メールは顧客が製品%sを購入したときに送信されます。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:72
+msgid "Email sent when a customer buys products: %s"
+msgstr "メールは顧客が製品%sを購入したときに送信されます。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:48
+msgctxt "This is the name of a type for automatic email for ecommerce. Those emails are sent automatically every time a customer buys for the first time a product in a given category"
+msgid "Purchased In This Category"
+msgstr "このカテゴリで購入"
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:116
+msgid "Please contact our technical support for assistance."
+msgstr "サポートにお問い合わせください。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:54
+msgid "Send an email to logged-in visitors who have items in their shopping carts but left your website without checking out. Can convert up to 5% of abandoned carts."
+msgstr "ショッピングカートに商品を持っているが、チェックアウトせずにサイトを離れたにメールを送信する。放棄されたカートの最大5％を変換することができます。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:66
+msgid "hour(s) later"
+msgstr "時間(複数)後"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:70
+msgid "day(s) later"
+msgstr "日(複数)後"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:74
+msgid "week(s) later"
+msgstr "週間(複数)後"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:81
+msgid "We recommend setting up 3 abandoned cart emails. Here’s why."
+msgstr "放棄されたカートメールを3つ設定することをお勧めします。その理由はここにあります。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:75
+msgid "Email sent when a customer makes their first purchase."
+msgstr "顧客が最初に購入したときに送信されるメール。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:82
+msgid "Order amount"
+msgstr "注文金額"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:86
+msgid "Order date"
+msgstr "注文日"
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:76
+msgid "WooCommerce is required"
+msgstr "WooCommerceが必要です"
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:115
+msgid "WooCommerce %s event is misconfigured."
+msgstr "WooCommerce %sイベントの設定が誤っています"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:53
+msgctxt "This is the name of a type of automatic email for ecommerce. Those emails are sent automatically when a customer adds product to his shopping cart but never complete the checkout process."
+msgid "Abandoned Shopping Cart"
+msgstr "ショッピングカートを放棄しました。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:55
+msgctxt "Description of Abandoned Shopping Cart email"
+msgid "Email sent when a customer abandons his cart."
+msgstr "顧客がカートを放棄したときに送信されるメール。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:62
+msgctxt "This is a trigger setting. It means that we will send an automatic email to a visitor 30 minutes after this visitor had left the website."
+msgid "30 minutes after last page loaded"
+msgstr "最後のページがロードされてから 30 分後"
+
+#: lib/API/JSON/API.php:194
+msgid "HTTP request method not allowed."
+msgstr "HTTP リクエストメソッドは許可されていません。"
+
+#: lib/Models/Newsletter.php:162
+msgid "This is an empty email without any content and it cannot be sent. Please update [link]the email[/link]."
+msgstr "これはコンテンツのない空のメールであり、送信できません。[link]メール[/link]を更新してください。"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:194
+msgid "Please fill in the CAPTCHA."
+msgstr "CAPTCHA を入力してください。"
+
+#: lib/Subscription/CaptchaRenderer.php:141
+msgid "The characters you entered did not match the CAPTCHA image. Please try again with this new image."
+msgstr "入力した文字は CAPTCHA 画像と一致しませんでした。この新しい画像でもう一度お試しください。"
+
+#: lib/Config/Populator.php:379
+msgid "Newsletter mailing list"
+msgstr "ニュースレターメーリングリスト"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:167
+msgid "This template..."
+msgstr "このテンプレートは..."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:186
+msgid "... has a..."
+msgstr "...があります..."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:205
+msgid "3-column layout."
+msgstr "3列のレイアウト。"
+
+#: lib/Config/PrivacyPolicy.php:48
+msgid "MailPoet creates and stores two cookies if you are using WooCommerce and MailPoet together. Those cookies are:"
+msgstr "WooCommerce と MailPoet を一緒に使用している場合、 MailPoet は 2 つのクッキーを作成して保存します。これらのクッキーは次のとおりです。"
+
+#: lib/Config/PrivacyPolicy.php:51 lib/Config/PrivacyPolicy.php:58
+msgid "Cookie name: %s"
+msgstr "クッキー名： %s"
+
+#: lib/Config/PrivacyPolicy.php:53 lib/Config/PrivacyPolicy.php:60
+msgid "Cookie expiry: %s days."
+msgstr "クッキーの有効期限：%s日間。"
+
+#: lib/Config/PrivacyPolicy.php:55
+msgid "Cookie description: The purpose of this cookie is to track which newsletter sent from your website has acquired a click-through and a subsequent purchase in your WooCommerce store."
+msgstr "クッキーの説明：このクッキーの目的は、サイトから送信されたニュースレターのうち、WooCommerce ストアでクリックスルーとその後の購入を獲得したものを追跡することです。"
+
+#: lib/Config/PrivacyPolicy.php:62
+msgid "Cookie description: The purpose of this cookie is to track a user that has abandoned their cart in your WooCommerce store to then be able to send them an abandoned cart newsletter from MailPoet."
+msgstr "クッキーの説明：このクッキーの目的は、WooCommerce ストアでカートを放棄したユーザーを追跡し、MailPoet からカートの放棄ニュースレターを送信できるようにすることです。"
+
+#: lib/Config/PrivacyPolicy.php:65
+msgid "Note: User must be opted-in and a confirmed subscriber."
+msgstr "注：ユーザーはオプトインされ、確認済みのサブスクライバーである必要があります。"
+
+#: lib/Settings/SettingsController.php:74
+msgid ""
+"Hello,\n"
+"\n"
+"Welcome to our newsletter!\n"
+"\n"
+"Please confirm your subscription to our list by clicking the link below: \n"
+"\n"
+"[activation_link]I confirm my subscription![/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+"The Team"
+msgstr ""
+"こんにちは、\n"
+"\n"
+"ニュースレターへようこそ！\n"
+"\n"
+"以下のリンクをクリックして、リストへのサブスクリプションを確認してください。 \n"
+"\n"
+"[activation_link]サブスクリプションを確認します！[/activation_link]\n"
+"\n"
+"ありがとうございました、\n"
+"\n"
+"チームより"
+
+#: lib/Config/Populator.php:309
+msgctxt "default email opt-in message displayed on checkout page for ecommerce websites"
+msgid "I would like to receive exclusive emails with discounts and product information"
+msgstr "割引や製品情報が記載されたお得なメールを受け取りたいです。"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:167
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:167
+msgid "This template has..."
+msgstr "このテンプレートには..."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:186
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:186
+msgid "... a 2-column layout."
+msgstr "... 2列のレイアウトあります。"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:222
+msgid "Please regenerate the CAPTCHA."
+msgstr "CAPTCHA を再生成してください。"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:226
+msgid "The characters entered do not match with the previous CAPTCHA."
+msgstr "入力した文字が以前の CAPTCHA と一致しません。"
+
+#: lib/Cron/Workers/StatsNotifications/AutomatedEmails.php:112
+msgid "Your monthly stats are in!"
+msgstr "毎月の統計が届きました！"
+
+#: lib/Subscription/CaptchaRenderer.php:50
+msgid "Confirm you’re not a robot"
+msgstr "ロボットではないことを確認してください"
+
+#: lib/Subscription/CaptchaRenderer.php:60
+msgid "Type in the characters you see in the picture above:"
+msgstr "上の図に表示されている文字を入力してください。"
+
+#: lib/Subscription/Throttling.php:73
+msgid "%d hours"
+msgstr "%d 時間"
+
+#: lib/Subscription/Throttling.php:74
+msgid "%d minutes"
+msgstr "%d 数分"
+
+#: lib/Subscription/Throttling.php:75
+msgid "%d seconds"
+msgstr "%d秒"
+
+#: lib/Subscription/CaptchaRenderer.php:74
+msgid "Subscribe"
+msgstr "購読"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:187
+msgid "Manage subscription link"
+msgstr "購読リンクを管理"
+
+#: lib/Subscribers/ConfirmationEmailMailer.php:135
+#: lib/Subscribers/ConfirmationEmailMailer.php:139
+msgid "Something went wrong with your subscription. Please contact the website owner."
+msgstr "購読に問題がありました。 サイトの所有者に連絡してください。"
+
+#: lib/Models/ScheduledTaskSubscriber.php:118
+msgctxt "status when a newsletter has been sent"
+msgid "Sent"
+msgstr "送信済み"
+
+#: lib/API/JSON/v1/Newsletters.php:121 lib/API/JSON/v1/Newsletters.php:138
+#: lib/API/JSON/v1/Newsletters.php:181 lib/API/JSON/v1/Newsletters.php:255
+#: lib/API/JSON/v1/Newsletters.php:271 lib/API/JSON/v1/Newsletters.php:285
+#: lib/API/JSON/v1/Newsletters.php:302 lib/API/JSON/v1/Newsletters.php:317
+#: lib/API/JSON/v1/Newsletters.php:340
+msgid "This email does not exist."
+msgstr "このメールは存在しません。"
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:56
+msgid "This email has not been sent yet."
+msgstr "このメールはまだ送信されていません。"
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:93
+msgid "Failed sending task not found!"
+msgstr "失敗したタスクを送信できませんでした。"
+
+#: lib/Util/Notices/InactiveSubscribersNotice.php:55
+msgid "Go to the Advanced Settings"
+msgstr "詳細設定に"
+
+#: lib/Util/Notices/InactiveSubscribersNotice.php:58
+msgid "Good news! MailPoet won’t send emails to your %s inactive subscribers. This is a standard practice to maintain good deliverability and open rates. But if you want to disable it, you can do so in settings. [link]Read more.[/link]"
+msgstr "良い知らせです。 MailPoet は %s 非アクティブな購読者にメールを送りません。これは、優れた成果とオープンレートを維持するための標準的な方法です。それを無効にしたい場合で、設定でそうすることができます。[link] 続きを読む。 [/link]"
+
+#: lib/Models/ScheduledTaskSubscriber.php:123
+msgctxt "status when the sending of a newsletter has failed"
+msgid "Failed"
+msgstr "失敗しました"
+
+#: lib/Models/ScheduledTaskSubscriber.php:128
+msgctxt "status when the sending of a newsletter has not been processed"
+msgid "Unprocessed"
+msgstr "未処理"
+
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:52
+msgid "<b>Your automatic emails have been paused</b> because some email addresses haven’t been authorized yet."
+msgstr "一部のメールアドレスはまだ承認されていないため、<b>自動メールは一時停止されています</b>。"
+
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:59
+msgctxt "%s will be replaced by a newsletter subject"
+msgid "Update the from address of %s"
+msgstr "%sの「差出人」アドレスを更新します。"
+
+#: lib/CustomFields/ApiDataSanitizer.php:37
+msgid "Mandatory argument \"%s\" is missing"
+msgstr "必須のアーギュメント %s がありません。"
+
+#: lib/CustomFields/ApiDataSanitizer.php:40
+msgid "Mandatory argument \"%s\" has to be string"
+msgstr "必須のアーギュメント %s ストリングでなければなりません。"
+
+#: lib/CustomFields/ApiDataSanitizer.php:46
+msgid "Params has to be array"
+msgstr "変数は配列でなければなりません"
+
+#: lib/CustomFields/ApiDataSanitizer.php:91
+msgid "Invalid type \"%s\""
+msgstr "%sは無効なタイプ"
+
+#: lib/CustomFields/ApiDataSanitizer.php:100
+msgid "Validate parameter is not valid"
+msgstr "検証変数が無効です"
+
+#: lib/CustomFields/ApiDataSanitizer.php:107
+msgid "You need to pass exactly one value for checkbox"
+msgstr "チェックボックスには1つだけ値を渡す必要があります"
+
+#: lib/CustomFields/ApiDataSanitizer.php:126
+msgid "Invalid date_format for year_month_day"
+msgstr "year_month_day の date_format が無効です"
+
+#: lib/CustomFields/ApiDataSanitizer.php:132
+msgid "Invalid date_format for year_month"
+msgstr "year_month の date_format が無効です"
+
+#: lib/CustomFields/ApiDataSanitizer.php:146
+msgid "Invalid value for date_type"
+msgstr "date_type の値が無効です"
+
+#: lib/CustomFields/ApiDataSanitizer.php:156
+msgid "You need to pass some values for this type"
+msgstr "このタイプには値を渡す必要があります"
+
+#: lib/CustomFields/ApiDataSanitizer.php:167
+msgid "Value cannot be empty"
+msgstr "値を空にすることはできません"
+
+#: lib/Form/FormMessageController.php:30 lib/Form/FormMessageController.php:49
+#: lib/Form/Templates/FormTemplate.php:147
+msgid "You’ve been successfully subscribed to our newsletter!"
+msgstr "ニュースレターを正常に購読しました。"
+
+#: lib/Config/AccessControl.php:74
+msgid "Manage features"
+msgstr "機能を管理"
+
+#: lib/Config/Populator.php:308
+msgctxt "default email opt-in message displayed on checkout page for ecommerce websites"
+msgid "Yes, I would like to be added to your mailing list"
+msgstr "はい、メーリングリストに追加してください。"
+
+#: lib/API/MP/v1/API.php:221
+msgid "Failed to add list"
+msgstr "リストを追加できませんでした"
+
+#: lib/Subscribers/SubscriberListingRepository.php:215
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:213
+msgid "Inactive"
+msgstr "無効"
+
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:22
+msgid "Lifestyle Blog"
+msgstr "ライフスタイルブログ"
+
+#: lib/Config/PopulatorData/Templates/RockBand.php:22
+msgid "Rock Band"
+msgstr "ロックバンド"
+
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:22
+msgid "Makeup Blog"
+msgstr "メイクアップブログ"
+
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:22
+msgid "Fashion Blog"
+msgstr "ファッションブログ"
+
+#: lib/Config/PopulatorData/Templates/Guitarist.php:22
+msgid "Guitarist"
+msgstr "ギタリスト"
+
+#: lib/Config/PopulatorData/Templates/Mosque.php:22
+msgid "Mosque"
+msgstr "モスク"
+
+#: lib/Config/PopulatorData/Templates/JazzClub.php:22
+msgid "Jazz Club"
+msgstr "ジャズクラブ"
+
+#: lib/Config/PopulatorData/Templates/Birds.php:22
+msgid "Birds"
+msgstr "鳥"
+
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:22
+msgid "Buddhist Temple"
+msgstr "お寺"
+
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:22
+msgid "Women Fashion Store"
+msgstr "婦人ファッション店"
+
+#: lib/Config/PopulatorData/Templates/FashionShop.php:22
+msgid "Kids Shop"
+msgstr "キッズショップ"
+
+#: lib/Config/PopulatorData/Templates/Motor.php:22
+msgid "Motor"
+msgstr "モーター"
+
+#: lib/Config/PopulatorData/Templates/Painter.php:22
+msgid "Painter"
+msgstr "画家"
+
+#: lib/Config/PopulatorData/Templates/Poet.php:22
+msgid "Poet"
+msgstr "詩人"
+
+#: lib/Config/PopulatorData/Templates/Vlogger.php:22
+msgid "Vlogger"
+msgstr "ブロガー"
+
+#: lib/Config/PopulatorData/Templates/WineCity.php:21
+msgid "Wine City (with coupon)"
+msgstr "ワインシティー（クーポン付）"
+
+#: lib/Config/PopulatorData/Templates/Photography.php:22
+msgid "Photography"
+msgstr "写真"
+
+#: lib/Config/PopulatorData/Templates/Synagogue.php:22
+msgid "Synagogue"
+msgstr "ユダヤ教会堂"
+
+#: lib/API/JSON/v1/UserFlags.php:34
+msgid "You have not specified any user flags to be saved."
+msgstr "保存するユーザーフラグを指定していません。"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:100
+msgid "Unknown address"
+msgstr "不明なアドレス"
+
+#: lib/Util/Notices/UnauthorizedEmailNotice.php:80
+msgid "Resume sending"
+msgstr "送信を再開"
+
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:22
+msgid "WordPress Theme"
+msgstr "WordPress テーマ"
+
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:21
+msgid "Branding Agency News"
+msgstr "ブランディングエージェンシーニュース"
+
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:22
+msgid "City News"
+msgstr "シティニュース"
+
+#: lib/Config/PopulatorData/Templates/College.php:22
+msgid "College"
+msgstr "カレッジ"
+
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:22
+msgid "Computer Repair"
+msgstr "コンピューター修理"
+
+#: lib/Config/PopulatorData/Templates/Engineering.php:21
+msgid "Engineering"
+msgstr "エンジニアリング"
+
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:21
+msgid "Farmers Market"
+msgstr "ファーマーズマーケット"
+
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:21
+msgid "Healthy Food Blog"
+msgstr "健康食品ブログ"
+
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:22
+msgid "Primary School"
+msgstr "小学校"
+
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:21
+msgid "Renewable Energy"
+msgstr "再生可能エネルギー"
+
+#: lib/Config/PopulatorData/Templates/Software.php:21
+msgid "Software"
+msgstr "ソフトウェア"
+
+#: lib/Models/Segment.php:162 lib/Segments/SegmentsRepository.php:63
+msgid "WooCommerce Customers"
+msgstr "WooCommerce のお客様"
+
+#: lib/Models/Segment.php:164 lib/Segments/SegmentsRepository.php:65
+msgid "This list contains all of your WooCommerce customers."
+msgstr "このリストにはあなたの全ての WordPress のお客様が含まれています。"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:132
+msgid "Unknown MailChimp error."
+msgstr "不明な MailChimp エラー。"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:130
+msgctxt "title of an automatic email containing statistics (newsletter open rate, click rate, etc)"
+msgid "Stats for email %s"
+msgstr "メール%sの統計"
+
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:22
+msgid "Book store (with coupon)"
+msgstr "本屋 （クーポン付き）"
+
+#: lib/Config/PopulatorData/Templates/ClearNews.php:22
+msgid "Clear News"
+msgstr "クリアニュース"
+
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:22
+msgid "Flowers (with coupon)"
+msgstr "花（クーポン付き）"
+
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:22
+msgid "Industry Conference"
+msgstr "業界カンファレンス"
+
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:22
+msgid "Newspaper Traditional"
+msgstr "新聞トラディショナル"
+
+#: lib/Cron/Workers/SendingQueue/Tasks/Newsletter.php:180
+msgid "No subject"
+msgstr "件名なし"
+
+#: lib/Subscribers/NewSubscriberNotificationMailer.php:98
+msgid "New subscriber to %s"
+msgstr "%sへの新しい加入者"
+
+#: lib/Mailer/MailerError.php:103
+msgid "Unprocessed subscriber:"
+msgstr "未処理の加入者:"
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:22
+msgid "Avocado"
+msgstr "アボカド"
+
+#: lib/Config/PopulatorData/Templates/Charity.php:22
+msgid "Charity"
+msgstr "チャリティー"
+
+#: lib/Config/PopulatorData/Templates/Coffee.php:22
+msgid "Coffee"
+msgstr "コーヒー"
+
+#: lib/Config/PopulatorData/Templates/DogFood.php:22
+msgid "Dog Food"
+msgstr "ドッグフード"
+
+#: lib/Config/PopulatorData/Templates/Drone.php:22
+msgid "Drone"
+msgstr "ドローン"
+
+#: lib/Config/PopulatorData/Templates/FashionStore.php:22
+msgid "Fashion Store"
+msgstr "ファッションショップ"
+
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:22
+msgid "Gift Welcome"
+msgstr "歓迎の贈り物"
+
+#: lib/Config/PopulatorData/Templates/Hotels.php:22
+msgid "Hotels"
+msgstr "ホテル"
+
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:22
+msgid "Modular Style Stories"
+msgstr "モジュラースタイルのストーリー"
+
+#: lib/Config/PopulatorData/Templates/Music.php:21
+msgid "Music"
+msgstr "音楽"
+
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:22
+msgid "One Full Post In An Email"
+msgstr "メールで1つの完全な投稿"
+
+#: lib/Config/PopulatorData/Templates/Phone.php:22
+msgid "New Phone Purchase"
+msgstr "新しい電話の購入"
+
+#: lib/Config/PopulatorData/Templates/RealEstate.php:22
+msgid "Real Estate"
+msgstr "不動産"
+
+#: lib/Config/PopulatorData/Templates/Retro.php:22
+msgid "Retro"
+msgstr "レトロ"
+
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:21
+msgid "Retro Computing Magazine"
+msgstr "レトロコンピューターの雑誌"
+
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:21
+msgid "Stripped RSS Style Layout"
+msgstr "剥ぎ取るされたRSSスタイルのレイアウト"
+
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:21
+msgid "Sunglasses"
+msgstr "サングラス"
+
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:21
+msgid "Wide Story Layout"
+msgstr "ワイドストーリーレイアウト"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:85
+msgid "Invalid MSS response format."
+msgstr "無効なMSS応答形式です。"
+
+#: lib/Util/Notices/AfterMigrationNotice.php:39
+msgid "Congrats! You’re progressing well so far. Complete your upgrade thanks to this [link]checklist[/link]."
+msgstr "おめでとう！ これまでのところうまく進んでいます。 この [link]チェックリスト[/link]のおかげでアップグレードを完了してください。"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:25
+msgid "URL"
+msgstr "URL"
+
+#: lib/Config/PopulatorData/Templates/Minimal.php:22
+msgid "Minimal"
+msgstr "ミニマル"
+
+#: lib/Config/Menu.php:348 lib/Config/Menu.php:349
+msgid "Welcome Wizard"
+msgstr "歓迎アシスタント"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:42
+msgid "JSON input is not an array"
+msgstr "JSON入力がアレイではありません"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:46
+msgid "Error while sending."
+msgstr "送信中にエラーが発生しました。"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:59
+msgid "Email service is temporarily not available, please try again in a few minutes."
+msgstr "メールサービスが一時的に利用できない場合は、数分後にもう一度お試しください。"
+
+#: lib/API/JSON/v1/Services.php:137
+msgid "Note that it doesn't work on localhost."
+msgstr "localhostでは動作しないことに注意してください。"
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:68
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:57
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:77
+msgid "Must-have"
+msgstr "必携品"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:73
+msgid "First Purchase"
+msgstr "最初の購入"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:74
+msgid "Let MailPoet send an email to customers who make their first purchase."
+msgstr "MailPoetが最初に購入する顧客に電子メールを送信するようにします。"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:69
+msgid "Purchased This Product"
+msgstr "この製品を購入しました"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:200
+msgid "Please check the CAPTCHA."
+msgstr "CAPTCHAをチェックしてください"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:98
+msgid "Subscriber information synchronized via WP user sync"
+msgstr "WPユーザ同期によって同期された加入者情報"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:100
+msgid "Subscription via a MailPoet subscription form"
+msgstr "MailPoetお問い合わせフォームによる購読"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:102
+msgid "Added by a 3rd party via MailPoet 3 API"
+msgstr "MailPoet 3 API経由で第三者によって追加されました"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:104
+msgid "Created by the administrator"
+msgstr "管理者によって作成された"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:106
+msgid "Imported by the administrator"
+msgstr "管理者によってインポートされた"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:32
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterOpensExporter.php:28
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:108
+msgid "Unknown"
+msgstr "不明"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:79
+msgid "Subscriber's subscription source"
+msgstr "加入者の購読ソース"
+
+#: lib/Config/PersonalDataErasers.php:18
+msgid "MailPoet Subscribers"
+msgstr "MailPoetの購読者 "
+
+#: lib/Config/PersonalDataExporters.php:52
+msgid "MailPoet Email Clicks"
+msgstr "MailPoetメールでクリック"
+
+#: lib/Config/PrivacyPolicy.php:22
+msgid "MailPoet newsletter & emails"
+msgstr "MailPoetニュースレターとメール"
+
+#: lib/Config/PrivacyPolicy.php:25
+msgid "If you have subscribed to our newsletter or if you are a member of our website (you can log in) or if you have purchased on our website, there is a good chance you will receive emails from us."
+msgstr "ニュースレターを購読している場合、または当社のウェブサイト（ログイン可能）のメンバーである場合、または当社のウェブサイトで購入した場合、当社から電子メールを受け取る機会があります。"
+
+#: lib/Config/PrivacyPolicy.php:28
+msgid "We will only send you emails which you have signed up to receive, or which pertain to the services we provided to you."
+msgstr "私たちは、あなたが受け取るために申し込みしたか、または私たちがあなたに提供したサービスに関連するメールのみを送付します。"
+
+#: lib/Config/PrivacyPolicy.php:31
+msgid "To send you emails, we use the name and email address you provide us. Our site also logs the IP address you used when you signed up for the service to prevent abuse of the system."
+msgstr "あなたに電子メールを送るために、私たちはあなたが私たちに送信した名前と電子メールアドレスを使用します。 私たちのサイトは、システムの悪用を防ぐためにサービスにサインアップしたときに使用したIPアドレスも記録します。"
+
+#: lib/Config/PrivacyPolicy.php:35
+msgid "This website can send emails through the [link]MailPoet sending service[/link]. This service allows us to track opens and clicks on our emails. We use this information to improve the content of our newsletters."
+msgstr "このウェブサイトは[link] MailPoet送付サービス[/ link]を通じてメールを送信することができます。 このサービスにより、私たちは電子メールのオープンとクリックを追跡できます。 この情報は、ニュースレターの内容を改善するために使用します。"
+
+#: lib/Config/PrivacyPolicy.php:41
+msgid "No identifiable information is otherwise tracked outside this website except for the email address."
+msgstr "このウェブサイト以外では、電子メールアドレスを除いて識別可能な情報は追跡されません。"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:21
+msgid "Timestamp of the click event"
+msgstr "クリックイベントのタイムスタンプ"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:42
+msgid "MailPoet Emails Clicks"
+msgstr "MailPoetメールでクリック"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:66
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:75
+msgid "Opened"
+msgstr "開いた"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:70
+msgid "Opened at"
+msgstr "開封日時"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:76
+msgid "No"
+msgstr "いいえ"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:64
+msgid "Created at"
+msgstr "作成日時"
+
+#: lib/Config/PersonalDataExporters.php:27
+msgid "MailPoet Lists"
+msgstr "MailPoetのリスト"
+
+#: lib/Config/PersonalDataExporters.php:44
+msgid "MailPoet Emails"
+msgstr "MailPoetメール"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:61
+msgid "Sent at"
+msgstr "送信日時"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:81
+msgid "Email preview"
+msgstr "メールプレビュー"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:90
+msgid "MailPoet Emails Sent"
+msgstr "MailPoetがメールを送信"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:35
+msgid "List name"
+msgstr "リストの名前"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:39
+msgid "Subscription status"
+msgstr "購読ステータス"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:43
+msgid "Timestamp of the subscription (or last change of the subscription status)"
+msgstr "サブスクリプションのタイムスタンプ（またはサブスクリプションステータスの最終変更日時）"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:48
+msgid "MailPoet Mailing Lists"
+msgstr "MailPoetメーリングリスト"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:53
+msgid "Subscribed IP"
+msgstr "サブスクライブされたIP"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:59
+msgid "Confirmed IP"
+msgstr "確認されたIP"
+
+#: lib/Config/PersonalDataExporters.php:35
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:25
+msgid "MailPoet Subscriber Data"
+msgstr "MailPoetの購読者データ"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:17
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterOpensExporter.php:17
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:57
+msgid "Email subject"
+msgstr "メール件名"
+
+#: lib/Cron/Workers/SendingQueue/Migration.php:64
+msgid "Your sending queue data is being migrated to allow better performance, sending is paused while the migration is in progress and will resume automatically upon completion. This may take a few minutes."
+msgstr "送信キューのデータが移行されてパフォーマンスが向上し、移行が進行中に送信が一時停止され、完了すると自動的に再開されます。 これには数分かかる場合があります。"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:65
+msgctxt "Subscription status"
+msgid "List status"
+msgstr "リストのステータス"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:66
+msgctxt "Subscription status"
+msgid "Global status"
+msgstr "グローバルステータス"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:212
+#: lib/Subscribers/SubscriberSubscribeController.php:216
+msgid "Error while validating the CAPTCHA."
+msgstr "CAPTCHA検証中にエラーが発生しました"
+
+#: lib/Subscription/Pages.php:396
+msgid "Subscription management form is only available to mailing lists subscribers."
+msgstr "購読管理フォームは、メーリングリストの購読者だけが利用できます。"
+
+#: lib/Subscription/Pages.php:445
+msgid "Link to subscription management page is only available to mailing lists subscribers."
+msgstr "購読管理ページへのリンクは、メーリングリストの購読者だけが利用できます。"
+
+#: mailpoet.php:58
+msgid "MailPoet plugin requires WordPress version 4.6 or newer. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoetプラグインには、WordPressバージョン4.6以上が必要です。 この問題の解決方法については、[link]手順[/ link]をご覧ください。"
+
+#: lib/API/MP/v1/API.php:75 lib/API/MP/v1/Subscribers.php:82
+msgid "At least one segment ID is required."
+msgstr "少なくとも1つのセグメントIDが必要です"
+
+#: lib/API/MP/v1/API.php:107 lib/API/MP/v1/Subscribers.php:127
+msgid "List with ID %s does not exist."
+msgid_plural "Lists with IDs %s do not exist."
+msgstr[0] "IDが%sのリストは存在しません。"
+
+#: lib/API/MP/v1/API.php:191
+msgid "List name is required."
+msgstr "リスト名は必須です"
+
+#: lib/API/MP/v1/API.php:199
+msgid "This list already exists."
+msgstr "このリストはすでに存在します"
+
+#: lib/Form/Block/BlockRendererHelper.php:63
+msgid "This field is required."
+msgstr "この欄は入力必須です。"
+
+#: lib/API/JSON/API.php:113
+msgid "Sorry, but we couldn't connect to the MailPoet server. Please refresh the web page and try again."
+msgstr "申し訳ありませんが、MailPoetサーバーに接続できませんでした。 ウェブページを更新してもう一度お試しください。"
+
+#: lib/Config/AccessControl.php:72
+msgid "Admin menu item"
+msgstr "管理者メニューアイテム"
+
+#: lib/Config/AccessControl.php:73
+msgid "Manage settings"
+msgstr "設定を管理"
+
+#: lib/Config/AccessControl.php:75
+msgid "Manage emails"
+msgstr "メールを管理"
+
+#: lib/Config/AccessControl.php:76
+msgid "Manage subscribers"
+msgstr "購読者を管理"
+
+#: lib/Config/AccessControl.php:77
+msgid "Manage forms"
+msgstr "フォームを管理"
+
+#: lib/Config/AccessControl.php:78
+msgid "Manage segments"
+msgstr "セグメントを管理"
+
+#: lib/Config/MP2Migrator.php:190
+msgid "Start import"
+msgstr "インポートを開始する"
+
+#: lib/Config/MP2Migrator.php:209
+msgid "Import complete"
+msgstr "インポート完了"
+
+#: lib/Config/MP2Migrator.php:214
+msgid "End import"
+msgstr "インポートを終了する"
+
+#: lib/Config/MP2Migrator.php:276
+msgid "Import stopped by user"
+msgstr "ユーザによってインポートを中断"
+
+#: lib/API/JSON/API.php:190
+msgid "Invalid API endpoint method."
+msgstr "無効なAPIエンドポイントメソッドです。"
+
+#: lib/Config/Initializer.php:160
+msgid "Unable to connect to the database (the database is unable to open a file or folder), the connection is likely not configured correctly. Please read our [link] Knowledge Base article [/link] for steps how to resolve it."
+msgstr "データベースに接続できませんでした（データベースのファイルはフォルダを開けません）、接続が正しく設定されていないことがあります。解決のための[link]ナレッジベース[/link]を読んでください。"
+
+#: lib/Config/ServicesChecker.php:99
+msgid "[link1]Register[/link1] your copy of the MailPoet Premium plugin to receive access to automatic upgrades and support. Need a license key? [link2]Purchase one now.[/link2]"
+msgstr "自動アップグレードとサポートを行うためにMailPoet Premium pluginを[link1]登録[/link1] ライセンスキーが必要ですか？ [link2]今すぐ購入[/link2] 自動アップグレードとサポートを行うためにMailPoet Premium pluginを[link1]登録[/link1] ライセンスキーが必要ですか？ [link2]今すぐ購入[/link2]"
+
+#: lib/Form/Renderer.php:91
+msgid "Please leave this field empty"
+msgstr "このフィールドは空白のままにしてください"
+
+#: lib/API/JSON/v1/Services.php:130
+msgid "Your MailPoet Sending Service key is already used on another site"
+msgstr "MailPoet Sending Service キーは既に別のサイトで使用されています。"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:85
+msgid "Please leave the first field empty."
+msgstr "最初の項目を空白にしてください"
+
+#: lib/Models/SendingQueue.php:40
+msgid "Rendered newsletter body is invalid!"
+msgstr "レンダリングされたニュースレターの本文は無効です！"
+
+#: lib/Cron/Workers/SendingQueue/Tasks/Newsletter.php:259
+msgid "There was an error processing your newsletter during sending. If possible, please contact us and report this issue."
+msgstr "送信中にニュースレターの処理中にエラーが発生しました。 可能であれば、私たちに連絡してこの問題を報告してください。"
+
+#: lib/API/JSON/v1/Services.php:254
+msgid "Service unavailable"
+msgstr "サービスは利用できません"
+
+#: lib/API/JSON/v1/Services.php:257
+msgid "Contact your hosting support to check the connection between your host and https://bridge.mailpoet.com"
+msgstr "ご利用のホストとhttps://bridge.mailpoet.com 間の接続確認のためご利用のホストサポートに連絡をしてください。"
+
+#: lib/Config/MP2Migrator.php:1109
+msgid "Settings imported"
+msgstr "セッティングインポートされた"
+
+#: lib/API/JSON/v1/Services.php:260
+msgctxt "Error code (inside parentheses)"
+msgid "code: %s"
+msgstr "コード: %s"
+
+#: lib/Config/MP2Migrator.php:323
+msgid "%d form"
+msgid_plural "%d forms"
+msgstr[0] "%dフォーム"
+
+#: lib/Config/MP2Migrator.php:827
+msgid "Importing forms..."
+msgstr "フォームのインポート中・・・"
+
+#: lib/Config/MP2Migrator.php:845
+msgid "%d form imported"
+msgid_plural "%d forms imported"
+msgstr[0] "%d フォームをインポートされた"
+
+#: lib/Config/Menu.php:321 lib/Config/Menu.php:322
+msgid "Help"
+msgstr "ヘルプ"
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:22
+msgid "App Welcome"
+msgstr "アプリの歓迎"
+
+#: lib/Config/PopulatorData/Templates/Faith.php:22
+msgid "Faith"
+msgstr "Faith"
+
+#: lib/Config/PopulatorData/Templates/FoodBox.php:22
+msgid "Welcome to FoodBox"
+msgstr "Welcome to FoodBox"
+
+#: lib/Config/PopulatorData/Templates/NewsDay.php:22
+msgid "News Day"
+msgstr "News Day"
+
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:22
+msgid "Piece of cake"
+msgstr "Piece of cake"
+
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:21
+msgid "Science Weekly"
+msgstr "Science Weekly"
+
+#: lib/Config/PopulatorData/Templates/Shoes.php:21
+msgid "Shoes"
+msgstr "Shoes"
+
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:21
+msgid "Take a Hike"
+msgstr "Take a Hike"
+
+#: lib/Config/PopulatorData/Templates/WorldCup.php:21
+msgid "World Cup"
+msgstr "World Cup"
+
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:21
+msgid "Yoga Studio"
+msgstr "Yoga Studio"
+
+#: lib/Form/AssetsController.php:93
+msgid "An error has happened while performing a request, please try again later."
+msgstr "リクエストの実行中にエラーが発生しました。後でやり直してください。"
+
+#: lib/Config/PopulatorData/Templates/FestivalEvent.php:22
+msgid "Festival Event"
+msgstr "祭りイベント"
+
+#: lib/Config/MP2Migrator.php:238
+msgid "MailPoet data erased"
+msgstr "MailPoetデータが削除されました"
+
+#: lib/Config/MP2Migrator.php:308
+msgid "MailPoet 2 data found:"
+msgstr "見つかったMailPoet 2 データ:"
+
+#: lib/Config/MP2Migrator.php:313
+msgid "%d subscribers list"
+msgid_plural "%d subscribers lists"
+msgstr[0] "%d 購読者リスト"
+
+#: lib/Config/MP2Migrator.php:318
+msgid "%d subscriber"
+msgid_plural "%d subscribers"
+msgstr[0] "%d 購読者"
+
+#: lib/Config/MP2Migrator.php:340
+msgid "Importing segments..."
+msgstr "セグメントをインポート中"
+
+#: lib/Config/MP2Migrator.php:361
+msgid "%d segment imported"
+msgid_plural "%d segments imported"
+msgstr[0] "%dセグメントをインポートしました"
+
+#: lib/Config/MP2Migrator.php:429
+msgid "Importing custom fields..."
+msgstr "カスタムフィールドをインポート中"
+
+#: lib/Config/MP2Migrator.php:439
+msgid "%d custom field imported"
+msgid_plural "%d custom fields imported"
+msgstr[0] "カスタム フィールド %d をインポートしました"
+
+#: lib/Config/MP2Migrator.php:577
+msgid "Importing subscribers..."
+msgstr "購読者をインポート中"
+
+#: lib/Config/Menu.php:374
+msgid "Migration"
+msgstr "マイグレーション"
+
+#: lib/Config/PluginActivatedHook.php:21
+msgid "We noticed that you're using an unsupported environment. While MailPoet might work within a MultiSite environment, we don’t support it."
+msgstr "サポートされていない環境を使用していることがわかりました。 MailPoetはMultiSite環境内で動作する可能性がありますが、サポートしません。"
+
+#: mailpoet.php:97
+msgid "MailPoet plugin cannot run under Microsoft's Internet Information Services (IIS) web server. We recommend that you use a web server powered by Apache or NGINX."
+msgstr "MailPoetプラグインはMicrosoftのインターネットインフォメーションサービス（IIS）Webサーバーでは実行できません。 ApacheまたはNGINXを使用するWebサーバーを使用することをお勧めします。"
+
+#: lib/Config/MP2Migrator.php:599
+msgid "%d subscriber imported"
+msgid_plural "%d subscribers imported"
+msgstr[0] "%d 購読者をインポートされた"
+
+#: lib/Config/Menu.php:335 lib/Config/Menu.php:336
+msgid "Premium"
+msgstr "プレミアム"
+
+#: lib/Subscribers/ImportExport/Import/Import.php:122
+msgid "No valid subscribers were found."
+msgstr "有効な購読者が見つかりませんでした。"
+
+#: lib/API/JSON/v1/Services.php:134
+msgid "Error validating MailPoet Sending Service key, please try again later (%s)."
+msgstr "MailPoet送信サービスキーの検証中にエラーが発生しました。後でも一度試してください（%s）"
+
+#: lib/API/JSON/v1/Services.php:109
+msgid "Your MailPoet Sending Service key has been successfully validated"
+msgstr "MailPoet 送信サービスキーの検証が正常に完了しました。"
+
+#: lib/API/JSON/v1/Services.php:112
+msgid "Your MailPoet Sending Service key expires on %s!"
+msgstr "MailPoet送信サービスキーは%sで期限切れです！"
+
+#: lib/API/JSON/v1/Services.php:174
+msgid "Your Premium key expires on %s"
+msgstr "プレミアムキーは%sに失効します。"
+
+#: lib/API/MP/v1/API.php:130
+msgid "Subscriber email address is required."
+msgstr "購読者のメールアドレスは必須です。"
+
+#: lib/API/MP/v1/API.php:138
+msgid "This subscriber already exists."
+msgstr "この購読者はすでに存在します。"
+
+#: lib/API/API.php:22
+msgid "Invalid API version."
+msgstr "無効な API バージョンです。"
+
+#: lib/API/JSON/v1/Services.php:200
+msgid "Error validating Premium key, please try again later (%s)"
+msgstr "プレミアムキーの検証に失敗しました。後ほど再度実行してください。(%s)"
+
+#: lib/Config/ServicesChecker.php:123
+msgid "Your License Key for MailPoet is expiring! Don't forget to [link]renew your license[/link] by %s to keep enjoying automatic updates and Premium support."
+msgstr "MailPoetのライセンスキーが期限切れです！ 自動アップデートやプレミアムサポートを楽しむために、ライセンスを%s[link]更新すること[/link]を忘れないでください。"
+
+#: lib/API/JSON/v1/Services.php:171
+msgid "Your Premium key has been successfully validated"
+msgstr "プレミアムキーが正常に検証されました。"
+
+#: lib/API/JSON/v1/Services.php:195
+msgid "Your Premium key is already used on another site"
+msgstr "プレミアムキーは既に別のサイトで使用されています。"
+
+#: lib/API/JSON/API.php:141
+msgid "Invalid API request."
+msgstr "無効なAPIリクエストです。"
+
+#: lib/API/JSON/API.php:185
+msgid "Invalid API endpoint."
+msgstr "無効なAPIエンドポイントです。"
+
+#: lib/Config/RequirementsChecker.php:75
+msgid "MailPoet requires a PDO_MYSQL PHP extension. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoetにはPDO_MYSQL PHP拡張機能が必要です。 この問題の解決方法については、[link]手順[/link]をご覧ください。"
+
+#: lib/Config/RequirementsChecker.php:85
+msgid "MailPoet requires an XML PHP extension. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoetにはXML PHP拡張機能が必要です。 この問題の解決方法については、[link]手順[/link]をご覧ください。"
+
+#: lib/Subscribers/ImportExport/Import/Import.php:114
+msgid "Missing or invalid import data."
+msgstr "インポートデータが無いか無効です。"
+
+#: lib/Mailer/MailerError.php:105
+msgid "Unprocessed subscribers:"
+msgstr "未処理の加入者:"
+
+#: lib/API/JSON/v1/Services.php:82 lib/API/JSON/v1/Services.php:154
+msgid "Please specify a key."
+msgstr "キーを指定してください。"
+
+#: lib/Config/ServicesChecker.php:68
+msgid "Your newsletters are awesome! Don't forget to [link]upgrade your MailPoet email plan[/link] by %s to keep sending them to your subscribers."
+msgstr "あなたのニュースレターは素晴らしいです！ [link]あなたのMailPoetメールプランアップグレード[/link]を忘れないでください。%sでそれらをあなたの加入者に送り続けます。"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:29
+msgid "MailPoet API key is invalid!"
+msgstr "MailPoet APIキーが無効です！"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:90
+msgid "The export file could not be saved on the server."
+msgstr "エクスポートファイルをサーバーに保存できませんでした。"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:255
+msgid "Please specify a valid form ID."
+msgstr "有効なフォームIDを指定してください。"
+
+#: lib/Models/Newsletter.php:335
+msgid "Deleted list"
+msgstr "削除されたリスト"
+
+#: lib/Config/RequirementsChecker.php:97
+msgid "A MailPoet dependency (%s) does not appear to be loaded correctly, thus MailPoet will not work correctly. Please reinstall the plugin."
+msgstr "MailPoet 依存関係 (%s)が正しく読み込まれていないように見えるため、MailPoetは正しく動作しません。 プラグインを再インストールしてください。"
+
+#: lib/Config/RequirementsChecker.php:108
+msgid "MailPoet has detected a dependency conflict (%s) with another plugin (%s), which may cause unexpected behavior. Please disable the offending plugin to fix this issue."
+msgstr "MailPoetが別のプラグイン(%s)との依存関係の競合(%s)を検出しました。これは予期しない動作を引き起こす可能性があります。 この問題を解決するには、問題のプラグインを無効にしてください。"
+
+#: lib/API/JSON/v1/Mailer.php:69
+#: lib/Newsletter/Preview/SendPreviewController.php:84
+msgid "The email could not be sent: %s"
+msgstr "メールを送信できませんでした：%s"
+
+#: lib/Mailer/MailerLog.php:56
+msgid "Sending has been paused."
+msgstr "送信が一時停止されました。"
+
+#: lib/Mailer/MailerLog.php:60
+msgid "Sending is waiting to be retried."
+msgstr "送信は再試行待ちです。"
+
+#: lib/Mailer/Methods/ErrorMappers/AmazonSESMapper.php:36
+#: lib/Mailer/Methods/ErrorMappers/BlacklistErrorMapperTrait.php:14
+#: lib/Mailer/Methods/ErrorMappers/PHPMailMapper.php:30
+#: lib/Mailer/Methods/ErrorMappers/SendGridMapper.php:22
+#: lib/Mailer/Methods/ErrorMappers/SMTPMapper.php:51
+msgid "%s has returned an unknown error."
+msgstr "%sは不明なエラーを返しました。"
+
+#: lib/Subscribers/SubscriberListingRepository.php:220
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:201
+msgid "Bounced"
+msgstr "バウンス"
+
+#: lib/Config/RequirementsChecker.php:54
+msgid "MailPoet requires write permissions inside the /wp-content/uploads folder. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoetには、/ wp-content / uploadsフォルダ内に書き込み権限が必要です。 この問題の解決方法については、[link]手順[/link]をご覧ください。"
+
+#: mailpoet.php:111
+msgid "MailPoet cannot start because it is missing core files. Please reinstall the plugin."
+msgstr "コアファイルがないため、MailPoetを開始できません。 プラグインを再インストールしてください。"
+
+#: lib/Form/Block/BlockRendererHelper.php:58
+#: lib/Subscribers/SubscriberSubscribeController.php:244
+msgid "Please select a list."
+msgstr "リストを選択してください。"
+
+#: lib/Config/Renderer.php:114
+msgid "Failed to render template \"%s\". Please ensure the template cache folder \"%s\" exists and has write permissions. Terminated with error: \"%s\""
+msgstr "テンプレート \"%s\"の表示に失敗しました。 テンプレートキャッシュフォルダ \"%s\"が存在し、書き込み権限があることを確認してください。 エラーで終了しました： \"%s\""
+
+#: lib/Subscribers/SubscriberSubscribeController.php:121
+msgid "You need to wait %s before subscribing again."
+msgstr "もう一度購読する前に%s待つ必要があります。"
+
+#: lib/Form/Util/Export.php:62
+msgid "BEGIN Scripts: you should place them in the header of your theme"
+msgstr "BEGINスクリプト：あなたはテーマのヘッダにそれらを置くべきです"
+
+#: lib/Form/Util/Export.php:94
+msgid "END Scripts"
+msgstr "終了スクリプト"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:195
+msgid "<h3>What's Next?</h3>"
+msgstr "<h3>次は何ですか？</h3>"
+
+#: lib/API/JSON/API.php:209 lib/Router/Router.php:60
+msgid "You do not have the required permissions."
+msgstr "必要な許可がありません。"
+
+#: lib/API/JSON/Endpoint.php:33 lib/API/JSON/ErrorHandler.php:20
+#: lib/API/JSON/ErrorResponse.php:30 lib/Automation/API/API.php:73
+msgid "An unknown error occurred."
+msgstr "不明なエラーが発生しました。"
+
+#: lib/API/JSON/Endpoint.php:42
+msgid "Invalid request parameters"
+msgstr "無効なリクエストパラメータ"
+
+#: lib/API/JSON/v1/CustomFields.php:51 lib/API/JSON/v1/CustomFields.php:74
+msgid "This custom field does not exist."
+msgstr "このカスタムフィールドは存在しません。"
+
+#: lib/API/JSON/v1/Forms.php:96 lib/API/JSON/v1/Forms.php:114
+#: lib/API/JSON/v1/Forms.php:259 lib/API/JSON/v1/Forms.php:275
+#: lib/API/JSON/v1/Forms.php:289 lib/API/JSON/v1/Forms.php:311
+msgid "This form does not exist."
+msgstr "このフォームは存在しません。"
+
+#: lib/API/JSON/v1/Forms.php:170
+msgid "New form"
+msgstr "新規フォーム"
+
+#: lib/Form/Templates/Templates/InitialForm.php:38
+msgid "Submit"
+msgstr "送信"
+
+#: lib/Form/Templates/Templates/InitialForm.php:41
+msgid "Subscribe!"
+msgstr "購読！"
+
+#: lib/Form/FormMessageController.php:29 lib/Form/FormMessageController.php:31
+#: lib/Form/FormMessageController.php:47
+#: lib/Form/Templates/FormTemplate.php:145
+msgid "Check your inbox or spam folder to confirm your subscription."
+msgstr "受信ボックスか迷惑メールフォルダを確認して購読手続きを完了してください。"
+
+#: lib/Form/FormSaveController.php:30
+#: lib/Newsletter/NewsletterSaveController.php:163
+#: lib/Segments/SegmentSaveController.php:48
+msgid "Copy of %s"
+msgstr "%sのコピー"
+
+#: lib/API/JSON/v1/NewsletterTemplates.php:57
+#: lib/API/JSON/v1/NewsletterTemplates.php:97
+msgid "This template does not exist."
+msgstr "このテンプレートは存在しません。"
+
+#: lib/API/JSON/v1/SendingQueue.php:75 lib/API/JSON/v1/SendingQueue.php:81
+#: lib/API/JSON/v1/SendingQueue.php:205 lib/API/JSON/v1/SendingQueue.php:235
+msgid "This newsletter does not exist."
+msgstr "このニュースレターは存在しません。"
+
+#: lib/API/JSON/v1/Forms.php:105 lib/API/JSON/v1/Newsletters.php:168
+msgid "You need to specify a status."
+msgstr "ステータスを指定する必要があります。"
+
+#: lib/API/JSON/v1/Newsletters.php:310
+msgid "Newsletter data is missing."
+msgstr "ニュースレターのデータがありません。"
+
+#: lib/API/JSON/v1/Newsletters.php:333
+msgid "Please specify receiver information."
+msgstr "受信者情報を指定してください。"
+
+#: lib/API/JSON/v1/Segments.php:103 lib/API/JSON/v1/Segments.php:165
+#: lib/API/JSON/v1/Segments.php:175 lib/API/JSON/v1/Segments.php:237
+#: lib/API/JSON/v1/Segments.php:259 lib/API/MP/v1/API.php:87
+#: lib/API/MP/v1/Subscribers.php:104
+msgid "This list does not exist."
+msgid_plural "These lists do not exist."
+msgstr[0] "このリストは存在しません。"
+
+#: lib/API/JSON/v1/SendingQueue.php:110
+msgid "This newsletter is already being sent."
+msgstr "このニュースレターはすでに送信されています。"
+
+#: lib/API/JSON/v1/SendingQueue.php:138
+msgid "There are no subscribers in that list!"
+msgstr "そのリストには購読者はいません！"
+
+#: lib/API/JSON/v1/SendingQueue.php:197 lib/API/JSON/v1/SendingQueue.php:227
+msgid "This newsletter has not been sent yet."
+msgstr "このニュースレターはまだ送られていません。"
+
+#: lib/API/JSON/v1/Settings.php:125
+msgid "You have not specified any settings to be saved."
+msgstr "保存する設定を指定していません。"
+
+#: lib/API/JSON/v1/Subscribers.php:83 lib/API/JSON/v1/Subscribers.php:168
+#: lib/API/JSON/v1/Subscribers.php:184 lib/API/JSON/v1/Subscribers.php:196
+#: lib/API/JSON/v1/Subscribers.php:220 lib/API/JSON/v1/SubscriberStats.php:42
+#: lib/API/MP/v1/API.php:81 lib/API/MP/v1/API.php:231
+#: lib/API/MP/v1/Subscribers.php:98 lib/API/MP/v1/Subscribers.php:207
+msgid "This subscriber does not exist."
+msgstr "この購読者は存在しません。"
+
+#: lib/API/MP/v1/CustomFields.php:38
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:54
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:162
+msgid "First name"
+msgstr "名"
+
+#. Author of the plugin
+#: lib/Config/Capabilities.php:83 lib/Config/Menu.php:497
+#: lib/Config/PrivacyPolicy.php:15
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: lib/Config/Hooks.php:369
+msgid "MailPoet Newsletter"
+msgstr "MailPoetニュースレター"
+
+#: lib/Config/Menu.php:128 lib/Config/Menu.php:129
+msgid "Emails"
+msgstr "メール"
+
+#: lib/Config/Menu.php:153 lib/Newsletter/Shortcodes/ShortcodesHelper.php:45
+msgid "Newsletter"
+msgstr "ニュースレター"
+
+#: lib/Config/Menu.php:154
+msgid "Newsletter Editor"
+msgstr "ニュースレターエディタ"
+
+#: lib/Config/Menu.php:166 lib/Config/Menu.php:167
+msgid "Forms"
+msgstr "フォーム"
+
+#: lib/Config/Menu.php:191 lib/Config/Menu.php:192
+msgid "Form Editor"
+msgstr "フォームエディタ"
+
+#: lib/Config/Menu.php:232 lib/Config/Menu.php:233
+msgid "Subscribers"
+msgstr "購読者"
+
+#: lib/Config/Menu.php:257 lib/Config/Menu.php:258
+msgid "Import"
+msgstr "インポート"
+
+#: lib/Config/Menu.php:270 lib/Config/Menu.php:271
+msgid "Export"
+msgstr "エクスポート"
+
+#: lib/Config/Menu.php:283 lib/Config/Menu.php:284
+msgid "Lists"
+msgstr "リスト"
+
+#: lib/Config/Menu.php:308 lib/Config/Menu.php:309
+msgid "Settings"
+msgstr "設定"
+
+#: lib/AdminPages/Pages/Newsletters.php:130
+msgid "In any WordPress role"
+msgstr "どのWordPress権限でも"
+
+#: lib/Config/Populator.php:381
+msgid "This list is automatically created when you install MailPoet."
+msgstr "このリストは、MailPoetをインストールすると自動的に作成されます。"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:26
+msgid "Newsletter: Blank 1:2:1 Column"
+msgstr "ニュースレター：空白1：2：1列"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:88
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:88
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:117
+#: lib/Config/PopulatorData/Templates/SimpleText.php:76
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:117
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:117
+msgid "Fake logo"
+msgstr "偽のロゴ"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started!</strong></h1>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find four menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>始めましょう！</strong></h1>\n"
+"<p>あなたのニュースレターをデザインする時です！ 右側のサイドバーには、ニュースレターをカスタマイズするのに役立つ4つのメニュー項目があります：</p>\n"
+"<ol>\n"
+"<li>コンテンツ</li>\n"
+"<li>コラム</li>\n"
+"<li>スタイル</li>\n"
+"<li>プレビュー</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:171
+msgid ""
+"<p>In the right sidebar, you can add layout blocks to your email:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>右側のサイドバーで、メールにレイアウトブロックを追加することができます：</p>\n"
+"<ul>\n"
+"<li>1列</li>\n"
+"<li>2列</li>\n"
+"<li>3列</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:250
+msgid ""
+"<h3 style=\"text-align: center;\"><span style=\"font-weight: 600;\">Let's end with a single column. </span></h3>\n"
+"<p style=\"line-height: 25.6px;\">In the right sidebar, you can add these layout blocks to your email:</p>\n"
+"<p style=\"line-height: 25.6px;\"></p>\n"
+"<ul style=\"line-height: 25.6px;\">\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<h3 style=\"text-align: center;\"><span style=\"font-weight: 600;\">単一の列で終了しましょう。</span></h3>\n"
+"<p style=\"line-height: 25.6px;\">右側のサイドバーで、これらのレイアウトブロックをメールに追加できます：</p>\n"
+"<p style=\"line-height: 25.6px;\"></p>\n"
+"<ul style=\"line-height: 25.6px;\">\n"
+"<li>1列</li>\n"
+"<li>2列</li>\n"
+"<li>3列</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:26
+msgid "Newsletter: Blank 1:2 Column"
+msgstr "ニュースレター：Blank 1：2 Column"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:171
+msgid ""
+"<p>In the right sidebar, you can add these layout blocks to your email:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>右側のサイドバーで、これらのレイアウトブロックをメールに追加できます：</p>\n"
+"<ul>\n"
+"<li>1列</li>\n"
+"<li>2列</li>\n"
+"<li>3列</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:190
+msgid "<p><span style=\"line-height: 25.6px;\">You can change a layout's background color by clicking on the settings icon on the right edge of the Designer. Simply hover over this area to see the Settings (gear) icon.</span></p>"
+msgstr "<p><span style=\"line-height: 25.6px;\">Designerの右端にある設定アイコンをクリックすると、レイアウトの背景色を変更できます。 この領域にカーソルを合わせると、設定(歯車)アイコンが表示されます。</span></p>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:26
+msgid "Newsletter: Blank 1:3 Column"
+msgstr "ニュースレター：Blank 1：3 Column"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:190
+msgid ""
+"<p>You have the choice of:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>あなたには次の選択肢があります：</p>\n"
+"<ul>\n"
+"<li>1列</li>\n"
+"<li>2列</li>\n"
+"<li>3列</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find 4 menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>始めましょう！</strong></h1>\n"
+"<p></p>\n"
+"<p>あなたのニュースレターをデザインする時です！ 右側のサイドバーには、ニュースレターのカスタマイズに役立つ4つのメニュー項目があります：</p>\n"
+"<ol>\n"
+"<li>コンテンツ</li>\n"
+"<li>コラム</li>\n"
+"<li>スタイル</li>\n"
+"<li>プレビュー</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find four menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>始めましょう！</strong></h1>\n"
+"<p></p>\n"
+"<p>あなたのニュースレターをデザインする時です！ 右側のサイドバーには、ニュースレターのカスタマイズに役立つ4つのメニュー項目があります：</p>\n"
+"<ol>\n"
+"<li>コンテンツ</li>\n"
+"<li>コラム</li>\n"
+"<li>スタイル</li>\n"
+"<li>プレビュー</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:26
+msgid "Newsletter: Blank 1 Column"
+msgstr "ニュースレター：Blank 1 Column"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find 4 menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>始めましょう！</strong></h1>\n"
+"<p></p>\n"
+"<p>あなたのニュースレターをデザインする時です！ 右側のサイドバーには、ニュースレターのカスタマイズに役立つ4つのメニュー項目があります：</p>\n"
+"<ol>\n"
+"<li>コンテンツ</li>\n"
+"<li>コラム</li>\n"
+"<li>スタイル</li>\n"
+"<li>プレビュー</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:26
+msgid "Post Notifications: Blank 1 Column"
+msgstr "投稿通知：ブランク1列"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Check Out Our New Blog Posts! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>MailPoet can <span style=\"line-height: 1.6em; background-color: inherit;\"><em>automatically</em> </span><span style=\"line-height: 1.6em; background-color: inherit;\">send your new blog posts to your subscribers.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">Below, you'll find three recent posts, which are displayed automatically, thanks to the <em>Automatic Latest Content</em> widget, which can be found in the right sidebar, under <em>Content</em>.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">To edit the settings and styles of your post, simply click on a post below.</span></p>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>私たちの新しいブログ投稿をチェックしてください！</strong></h1>\n"
+"<p></p>\n"
+"<p>MailPoetは<span style=\"line-height: 1.6em; background-color: inherit;\"><em>自動的に</em></span><span style=\"line-height: 1.6em; background-color: inherit;\">新しいブログ投稿をあなたの購読者に送ることができます。</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">下に3つの最近の投稿があります。これらの投稿は自動的に表示されます<em>自動最新コンテンツ</em>ウィジェットは、右側のサイドバーの\"コンテンツ\"にあります<em>コンテンツ</em>。</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">あなたの投稿の設定とスタイルを編集するには、下の投稿をクリックしてください。</span></p>"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:177
+msgid "Read the post"
+msgstr "記事を読む"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:26
+msgid "Simple Text"
+msgstr "シンプルなテキスト"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:123
+msgid "It's time to take action!"
+msgstr "行動を取る時です！"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:144
+msgid ""
+"<p>Thanks for reading. See you soon!</p>\n"
+"<p>&nbsp;</p>\n"
+"<p><strong><em>The MailPoet Team</em></strong></p>"
+msgstr ""
+"<p>読んでくれてありがとう。 また近いうちにお会いしましょう！</p>\n"
+"<p></p>\n"
+"<p><strong><em>MailPoetチーム</em></strong></p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:26
+msgid "Welcome Email: Blank 1:2 Column"
+msgstr "ようこそメール：空白1：2列"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:88
+msgid ""
+"<p style=\"text-align: left;\">Hi [subscriber:firstname | default:subscriber],</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">In MailPoet, you can write emails in plain text, just like in a regular email. This can make your email newsletters more personal and attention-grabbing.</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Is this too simple? You can still style your text with basic formatting, like <strong>bold</strong> or <em>italics.</em></p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Finally, you can also add a call-to-action button between 2 blocks of text, like this:</p>"
+msgstr ""
+"<p style=\"text-align: left;\">こんにちは [subscriber:firstname | default:subscriber],</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">MailPoetでは、通常のメールと同様に、メールをプレーンテキストで書くことができます。 これはあなたのメールのニュースレターをもっと個人的に注目を集めることができます。</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">これは簡単すぎますか？ 基本的な書式でテキストを書式設定することはできます。<strong>太字</strong>または<em>斜体</em></p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">最後に、次のように2つのテキストブロック間にcall-to-actionボタンを追加することもできます：</p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Hi, new subscriber!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>[subscriber:firstname | default:Subscriber],</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>You recently joined our list and we'd like to give you a warm welcome!</p>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>こんにちは、新しい購読者！</strong></h1>\n"
+"<p></p>\n"
+"<p>[subscriber:firstname | default:Subscriber],</p>\n"
+"<p></p>\n"
+"<p>あなたは最近私達のリストに加わり、私たちはあなたに暖かい歓迎をしたいと思います！</p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:176
+msgid "<h3>Our Most Popular Posts</h3>"
+msgstr "<h3>私たちの最も人気のある投稿</h3>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:180
+msgid ""
+"<ul>\n"
+"<li><a href=\"http://www.mailpoet.com/the-importance-of-focus-when-writing/\">The Importance of Focus When Writing</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/write-great-subject-line/\">How to Write a Great Subject Line</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/just-sit-write-advice-motivation-ernest-hemingway/\">Just Sit Down and Write &ndash; Advice on Motivation from Ernest Hemingway</a></li>\n"
+"</ul>"
+msgstr ""
+"<ul>\n"
+"<li><a href=\"http://www.mailpoet.com/the-importance-of-focus-when-writing/\">書く時のフォーカスの重要性</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/write-great-subject-line/\">すばらしい件名を書く方法</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/just-sit-write-advice-motivation-ernest-hemingway/\">ただ座って書き込みしてください。 アーネストヘミングウェイからのモチベーションに関するアドバイス</a></li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:199
+msgid "<p>Add a single button to your newsletter in order to have one clear call-to-action, which will increase your click rates.</p>"
+msgstr "<p>あなたのニュースレターに1つのボタンを追加して call-to-action を明確にすると、クリック率が向上します。</p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:203
+msgid "Read up!"
+msgstr "読んでください！"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:26
+msgid "Welcome Email: Blank 1 Column"
+msgstr "ようこそメール：ブランク1列"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Hi, new subscriber!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>[subscriber:firstname | default:Subscriber],</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>You recently joined our list and we'd like to give you a warm welcome!</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>Want to get to know us better? Check out some of our most popular articles: </p>\n"
+"<ol>\n"
+"<li><a href=\"http://www.mailpoet.com/the-importance-of-focus-when-writing/\">The Importance of Focus When Writing</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/write-great-subject-line/\">How to Write a Great Subject Line</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/just-sit-write-advice-motivation-ernest-hemingway/\">Just Sit Down and Write &ndash; Advice on Motivation from Ernest Hemingway</a></li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>こんにちは、新しい購読者！</strong></h1>\n"
+"<p></p>\n"
+"<p>[subscriber:firstname | default:Subscriber],</p>\n"
+"<p></p>\n"
+"<p>あなたは最近私達のリストに加わり、私たちはあなたに暖かい歓迎をしたいと思います！</p>\n"
+"<p></p>\n"
+"<p>私たちをもっとよく知りたいですか？ 最も人気のある記事をご覧ください：</p>\n"
+"<ol>\n"
+"<li><a href=\"http://www.mailpoet.com/the-importance-of-focus-when-writing/\">書く時のフォーカスの重要性</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/write-great-subject-line/\">素晴らしい件名を書く方法</a></li>\n"
+"<li><a href=\"http://www.mailpoet.com/just-sit-write-advice-motivation-ernest-hemingway/\">ただ座って書き込みしてください。 アーネストヘミングウェイからのモチベーションに関するアドバイス</a></li>\n"
+"</ol>"
+
+#: lib/Config/Shortcodes.php:183
+msgid "Oops! There are no newsletters to display."
+msgstr "おっと！ 表示するニュースレターはありません。"
+
+#: lib/Config/Shortcodes.php:247
+msgid "Preview in a new tab"
+msgstr "新しいタブでプレビュー"
+
+#: lib/Cron/CronHelper.php:192 lib/Cron/CronHelper.php:213
+msgid "Site URL is unreachable."
+msgstr "サイトのURLに到達できません。"
+
+#: lib/Cron/CronHelper.php:219
+msgid "Maximum execution time has been reached."
+msgstr "最大実行時間に達しました。"
+
+#: lib/Cron/DaemonHttpRunner.php:65
+msgid "Invalid or missing request data."
+msgstr "リクエストデータが無効または不足しています。"
+
+#: lib/Cron/DaemonHttpRunner.php:68
+msgid "Daemon does not exist."
+msgstr "デーモンは存在しません。"
+
+#: lib/Form/Block/BlockRendererHelper.php:40
+msgid "Please specify a valid email address."
+msgstr "有効なメールアドレスを指定してください。"
+
+#: lib/Form/Block/Date.php:72
+msgid "Please select a day"
+msgstr "日を選択してください"
+
+#: lib/Form/Block/Date.php:74 lib/Form/Block/Date.php:216
+msgid "Day"
+msgstr "日"
+
+#: lib/Form/Block/Date.php:81
+msgid "Please select a month"
+msgstr "月を選択してください"
+
+#: lib/Form/Block/Date.php:83 lib/Form/Block/Date.php:150
+msgid "Month"
+msgstr "月"
+
+#: lib/Form/Block/Date.php:90
+msgid "Please select a year"
+msgstr "年を選択してください"
+
+#: lib/Form/Block/Date.php:92 lib/Form/Block/Date.php:108
+#: lib/Form/Block/Date.php:185
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:87
+msgid "Year"
+msgstr "年"
+
+#: lib/Form/Block/Date.php:105
+msgid "Year, month, day"
+msgstr "年、月、日"
+
+#: lib/Form/Block/Date.php:106
+msgid "Year, month"
+msgstr "年、月"
+
+#: lib/Form/Block/Date.php:107
+msgid "Month (January, February,...)"
+msgstr "月(1月、2月、...)"
+
+#: lib/Form/Block/Date.php:122
+msgid "January"
+msgstr "1月"
+
+#: lib/Form/Block/Date.php:122
+msgid "February"
+msgstr "2月"
+
+#: lib/Form/Block/Date.php:122
+msgid "March"
+msgstr "3月"
+
+#: lib/Form/Block/Date.php:122
+msgid "April"
+msgstr "4月"
+
+#: lib/Form/Block/Date.php:123
+msgid "May"
+msgstr "5月"
+
+#: lib/Form/Block/Date.php:123
+msgid "June"
+msgstr "6月"
+
+#: lib/Form/Block/Date.php:123
+msgid "July"
+msgstr "7月"
+
+#: lib/Form/Block/Date.php:123
+msgid "August"
+msgstr "8月"
+
+#: lib/Form/Block/Date.php:123
+msgid "September"
+msgstr "9月"
+
+#: lib/Form/Block/Date.php:124
+msgid "October"
+msgstr "10月"
+
+#: lib/Form/Block/Date.php:124
+msgid "November"
+msgstr "11月"
+
+#: lib/Form/Block/Date.php:124
+msgid "December"
+msgstr "12月"
+
+#: lib/Form/Widget.php:39
+msgid "Add a newsletter subscription form"
+msgstr "ニュースレター購読フォームを追加"
+
+#: lib/Form/Widget.php:124
+msgid "Subscribe to Our Newsletter"
+msgstr "ニュースレターを購読する"
+
+#: lib/Form/Widget.php:163 lib/PostEditorBlocks/SubscriptionFormBlock.php:62
+msgid "Create a new form"
+msgstr "新しいフォームを作成する"
+
+#: lib/Mailer/Mailer.php:133
+msgid "Mailing method does not exist."
+msgstr "郵送方法は存在しません。"
+
+#: lib/Mailer/Mailer.php:141
+msgid "Mailer is not configured."
+msgstr "メーラーが構成されていません。"
+
+#: lib/Mailer/Mailer.php:149
+msgid "Sender name and email are not configured."
+msgstr "送信者の名前とメールは設定されていません。"
+
+#: lib/Mailer/MailerLog.php:68
+msgid "Sending frequency limit has been reached."
+msgstr "送信頻度数制限に達しました。"
+
+#: lib/Mailer/Methods/AmazonSES.php:79
+msgid "Unsupported Amazon SES region"
+msgstr "サポートされていないAmazon SES地域"
+
+#: lib/API/JSON/v1/DynamicSegments.php:124 lib/API/JSON/v1/ImportExport.php:113
+#: lib/API/JSON/v1/Segments.php:129 lib/Models/CustomField.php:30
+#: lib/Models/NewsletterOptionField.php:21 lib/Models/Segment.php:32
+msgid "Please specify a name."
+msgstr "名前を指定してください。"
+
+#: lib/Models/CustomField.php:33 lib/Models/Newsletter.php:66
+msgid "Please specify a type."
+msgstr "タイプを指定してください。"
+
+#: lib/Models/Model.php:247
+msgid "Another record already exists. Please specify a different \"%1$s\"."
+msgstr "別のレコードが既に存在します。 別の \"%1$s\"を指定してください。"
+
+#: lib/Models/Subscriber.php:166
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:66
+#: lib/Subscribers/SubscriberListingRepository.php:255
+msgid "All Lists"
+msgstr "全てのリスト"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:136
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:151
+msgid "Sent"
+msgstr "送信済み"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:169
+msgid "Not active"
+msgstr "アクティブではありません"
+
+#: lib/Models/NewsletterOptionField.php:24
+msgid "Please specify a newsletter type."
+msgstr "ニュースレタータイプを指定してください。"
+
+#: lib/Models/Segment.php:144
+msgid "WordPress Users"
+msgstr "WordPressユーザー"
+
+#: lib/Models/Segment.php:146
+msgid "This list contains all of your WordPress users."
+msgstr "このリストにはあなたの全てのWordPressユーザーが含まれています。"
+
+#: lib/Settings/SettingsController.php:73
+msgid "Confirm your subscription to %1$s"
+msgstr "%1$sの購読を承認する"
+
+#: lib/API/JSON/v1/Subscribers.php:289 lib/Models/Subscriber.php:54
+msgid "Please enter your email address"
+msgstr "メールアドレスを入力してください"
+
+#: lib/API/JSON/v1/Subscribers.php:291 lib/Models/Subscriber.php:55
+msgid "Your email address is invalid!"
+msgstr "あなたのメールアドレスは無効です！"
+
+#: lib/Models/Subscriber.php:174
+#: lib/Subscribers/SubscriberListingRepository.php:239
+msgid "Subscribers without a list (%s)"
+msgstr "リストのない購読者(%s)"
+
+#: lib/Subscribers/SubscriberListingRepository.php:200
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:185
+msgid "Subscribed"
+msgstr "購読"
+
+#: lib/Subscribers/SubscriberListingRepository.php:205
+msgid "Unconfirmed"
+msgstr "未確認"
+
+#: lib/Subscribers/SubscriberListingRepository.php:210
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:193
+msgid "Unsubscribed"
+msgstr "購読中止"
+
+#: lib/Newsletter/Editor/PostContentManager.php:147
+msgid "Click here to view media."
+msgstr "メディアを表示するにはここをクリックしてください。"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:23
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:120
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:121
+msgid "Subscriber"
+msgstr "購読者"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:25
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:35
+msgid "First Name"
+msgstr "名"
+
+#: lib/Form/Templates/Templates/InitialForm.php:28
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:33
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:37
+msgid "WordPress User Display Name"
+msgstr "WordPressユーザーの表示名"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:41
+msgid "Total Number of Subscribers"
+msgstr "総購読者数"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:47
+msgid "Newsletter Subject"
+msgstr "ニュースレターの件名"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:51
+msgid "Post Notifications"
+msgstr "投稿通知"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:53
+msgid "Total Number of Posts or Pages"
+msgstr "総投稿数またはページ数"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:57
+msgid "Most Recent Post Title"
+msgstr "最近の投稿タイトル"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:61
+msgid "Issue Number"
+msgstr "発行番号"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:65
+msgid "Date"
+msgstr "日付"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:67
+msgid "Current day of the month number"
+msgstr "今日の日付を数字で表示"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:71
+msgid "Current day of the month in ordinal form, i.e. 2nd, 3rd, 4th, etc."
+msgstr "今日の日付を序数で表示。2日、3日、4日など。"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:75
+msgid "Full name of current day"
+msgstr "今日の日付を名前で表示"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:79
+msgid "Current month number"
+msgstr "今月を数字で表示"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:83
+msgid "Full name of current month"
+msgstr "今月の月名を名前で表示"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:91
+msgid "Links"
+msgstr "リンク"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:186
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:93
+msgid "Unsubscribe link"
+msgstr "購読中止リンク"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:101
+msgid "Edit subscription page link"
+msgstr "購読ページへのリンクを編集"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:105
+msgid "Manage subscription"
+msgstr "購読の管理"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:188
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:109
+msgid "View in browser link"
+msgstr "ブラウザのリンクで表示"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:113
+msgid "View in your browser"
+msgstr "あなたのブラウザで見る"
+
+#: lib/Router/Router.php:51
+msgid "Invalid router endpoint"
+msgstr "ルータエンドポイントが無効です"
+
+#: lib/Router/Router.php:57
+msgid "Invalid router endpoint action"
+msgstr "ルータエンドポイントのアクションが無効です"
+
+#: lib/Settings/Pages.php:18 lib/Settings/Pages.php:19
+#: lib/Settings/Pages.php:43 lib/Subscription/Pages.php:237
+msgid "MailPoet Page"
+msgstr "MailPoetページ"
+
+#: lib/Subscribers/ImportExport/ImportExportRepository.php:188
+msgid "Not In Segment"
+msgstr "セグメントに含まれていない"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:93
+msgid "Export requires a ZIP extension to be installed on the host."
+msgstr "エクスポートでは、ホストにZIP拡張機能をインストールする必要があります。"
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:322
+#: lib/Config/PopulatorData/Templates/Avocado.php:646
+#: lib/Config/PopulatorData/Templates/Avocado.php:879
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:804
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1062
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1427
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:608
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:815
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:825
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/FestivalEvent.php:467
+#: lib/Config/PopulatorData/Templates/Fitness.php:710
+#: lib/Config/PopulatorData/Templates/Fitness.php:984
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1124
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1357
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:301
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:785
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1093
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:565
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:419
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:370
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:454
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/Shoes.php:512
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:650
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:507
+#: lib/Config/PopulatorData/Templates/WineCity.php:804
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:701
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:97
+msgid "Unsubscribe"
+msgstr "購読中止"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:71
+msgid "List"
+msgstr "リスト"
+
+#: lib/Subscribers/ImportExport/Import/Import.php:173
+msgid "Unable to save imported subscribers."
+msgstr "インポートされたサブスクライバを保存できません。"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:135
+msgid "Invalid API Key."
+msgstr "APIキーが無効です。"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:138
+msgid "The information received from MailChimp is too large for processing. Please limit the number of lists!"
+msgstr "MailChimpから受け取った情報は処理には大きすぎます。 リストの数を制限してください！"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:141
+msgid "Did not find any active subscribers."
+msgstr "アクティブなユーザが見つかりませんでした。"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:144
+msgid "Did not find any valid lists."
+msgstr "有効なリストが見つかりませんでした。"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:110
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:111
+msgid "Ignore field..."
+msgstr "フィールドを無視する..."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:115
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:116
+msgid "Create new field..."
+msgstr "新しいフィールドを作成..."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:122
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:123
+msgid "Select all..."
+msgstr "全て選択..."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:127
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:128
+msgid "Deselect all..."
+msgstr "全ての選択を解除..."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:138
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:139
+msgid "System fields"
+msgstr "システムフィールド"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:145
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:146
+msgid "User fields"
+msgstr "ユーザーフィールド"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:47
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:181
+msgid "Status"
+msgstr "ステータス"
+
+#: lib/Subscription/Comment.php:43 lib/Subscription/Registration.php:42
+msgid "Yes, please add me to your mailing list."
+msgstr "はい、あなたのメーリングリストに私を追加してください。"
+
+#: lib/Subscription/Pages.php:244
+msgid "Hmmm... we don't have a record of you."
+msgstr "うーん...あなたの記録はありません。"
+
+#: lib/Subscription/Pages.php:272
+msgid "Your email address doesn't appear in our lists anymore. Sign up again or contact us if this appears to be a mistake."
+msgstr "あなたのメールアドレスは私たちのリストにはもう表示されません。 これに間違いがあると思われる場合は、もう一度申し込んでください。"
+
+#: lib/Subscription/Pages.php:332 lib/Subscription/Pages.php:344
+msgid "You have subscribed to: %s"
+msgstr "あなたが購読している：%s"
+
+#: lib/Subscription/Pages.php:341
+msgid "You are now subscribed!"
+msgstr "あなたは今購読しています！"
+
+#: lib/Subscription/Pages.php:378
+msgid "Yup, we've added you to our email list. You'll hear from us shortly."
+msgstr "登録を完了しました。後ほどメールをお届けします。"
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:259
+msgid "Your lists"
+msgstr "あなたのリスト"
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:85
+msgid "Save"
+msgstr "保存"
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:120
+msgid "[link]Edit your profile[/link] to update your email."
+msgstr "[link]あなたのプロフィールを編集して[/link]あなたのメールアドレスを更新してください。"
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:126
+msgid "[link]Log in to your account[/link] to update your email."
+msgstr "[link]アカウントにログインして[/link]メールを更新してください。"
+
+#: lib/Subscription/Pages.php:412
+msgid "Accidentally unsubscribed?"
+msgstr "誤って購読中止しましたか？"
+
+#: lib/Twig/Functions.php:174
+msgid "every minute"
+msgstr "1分ごと"
+
+#: lib/Twig/Functions.php:175
+msgid "every %1$d minutes"
+msgstr "%1$d分ごと"
+
+#: lib/Twig/Functions.php:176
+msgid "every hour"
+msgstr "1時間ごと"
+
+#: lib/Twig/Functions.php:177
+msgid "every %1$d hours"
+msgstr "%1$d時間ごと"
+
+#: lib/WP/Notice.php:45
+msgid "MailPoet Error:"
+msgstr "MailPoetエラー："
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:322
+#: lib/Config/PopulatorData/Templates/Avocado.php:646
+#: lib/Config/PopulatorData/Templates/Avocado.php:879
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:804
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1062
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1428
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:608
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:815
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:826
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/Fitness.php:710
+#: lib/Config/PopulatorData/Templates/Fitness.php:984
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1124
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1357
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:301
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:786
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1094
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:565
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:420
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:454
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/Shoes.php:512
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:650
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:507
+#: lib/Config/PopulatorData/Templates/WineCity.php:804
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:701
+#: lib/Subscription/Pages.php:354 lib/Subscription/Pages.php:451
+msgid "Manage your subscription"
+msgstr "購読を管理する"
+
+#: lib/Subscription/Pages.php:360
+msgid "You are now unsubscribed."
+msgstr "購読を中止しました。"
+
+#: lib/Config/Menu.php:141
+msgctxt "newsletters per page (screen options)"
+msgid "Number of newsletters per page"
+msgstr "1ページあたりのニュースレターの数"
+
+#: lib/Config/Menu.php:179
+msgctxt "forms per page (screen options)"
+msgid "Number of forms per page"
+msgstr "1ページあたりのフォーム数"
+
+#: lib/Config/Menu.php:245
+msgctxt "subscribers per page (screen options)"
+msgid "Number of subscribers per page"
+msgstr "1ページあたりの加購読数"
+
+#: lib/Config/Menu.php:296
+msgctxt "segments per page (screen options)"
+msgid "Number of segments per page"
+msgstr "1ページあたりのセグメント数"
+
+#: lib/Form/Widget.php:38
+msgid "MailPoet 3 Form"
+msgstr "MailPoet 3フォーム"
+
+#: lib/Form/Listing/FormListingRepository.php:39
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:178
+#: lib/Segments/SegmentListingRepository.php:102
+#: lib/Subscribers/SubscriberListingRepository.php:225
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: lib/Form/Widget.php:139
+msgid "Title:"
+msgstr "タイトル:"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1298
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:172
+msgid "Categories:"
+msgstr "カテゴリー:"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1295
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1355
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1476
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:170
+msgid "Author:"
+msgstr "投稿者:"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:190
+msgid "You can change a layout's background color by clicking on the settings icon on the right edge of the Designer. Simply hover over this area to see the Settings (gear) icon."
+msgstr "Designer の右端にある設定アイコンをクリックして、レイアウトの背景色を変更できます。この領域にカーソルを合わせると、設定（ギア）アイコンが表示されます。"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:171
+msgid "In the right sidebar, you can add layout blocks to your newsletter."
+msgstr "右側のサイドバーでは、ニュースレターにレイアウトブロックを追加できます。"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:209
+msgid "You can add as many layout blocks as you want!"
+msgstr "必要なだけ多くのレイアウトブロックを追加できます！"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:133
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:134
+msgid "Actions"
+msgstr "操作"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:164
+msgid "Active"
+msgstr "有効"
+
+#: lib/Form/Listing/FormListingRepository.php:34
+#: lib/Models/ScheduledTaskSubscriber.php:113
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:110
+#: lib/Segments/SegmentListingRepository.php:97
+#: lib/Subscribers/SubscriberListingRepository.php:195
+msgid "All"
+msgstr "すべて"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:121
+msgid "Draft"
+msgstr "下書き"
+
+#: lib/API/MP/v1/CustomFields.php:30
+#: lib/Form/Templates/Templates/InitialForm.php:25
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:53
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:43
+msgid "Email"
+msgstr "メール"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:29
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:39
+msgid "Last Name"
+msgstr "姓"
+
+#: lib/API/MP/v1/CustomFields.php:46
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:55
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:171
+msgid "Last name"
+msgstr "姓"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:126
+msgid "Scheduled"
+msgstr "予約済み"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:131
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:146
+msgid "Sending"
+msgstr "送信中"
